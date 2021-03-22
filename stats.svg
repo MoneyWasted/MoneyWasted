@@ -19,10 +19,10 @@
       </style>
       <div id="wrapper">
         <div id="first">
-          <![CDATA[<image href="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact" />]]>
+          <![CDATA[<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact" />]]>
         </div>
         <div id="second">
-          <![CDATA[<image href="https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en" />]]>
+          <![CDATA[<img src="https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en" />]]>
         </div>
       </div>
     </div>
