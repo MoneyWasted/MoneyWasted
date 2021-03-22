@@ -4,19 +4,16 @@
       <style>
         #wrapper {
           width: 845px;
-          border: 1px solid black;
           overflow: hidden;
         }
         
         #first {
           width: 350px;
           float: left;
-          border: 1px solid red;
         }
         
         #second {
           width: 495px;
-          border: 1px solid green;
           overflow: hidden;
         }
       </style>
