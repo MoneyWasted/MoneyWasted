@@ -77,8 +77,9 @@
 </p>
 
 <div>
-<p><img align="left" src="stats.svg" alt="moneywasted" /></p>
+  <p><img align="center" src="stats.svg" /></p>
 </div>
+
 <!---
 MoneyWasted/MoneyWasted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
