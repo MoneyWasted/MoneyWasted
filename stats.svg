@@ -12,7 +12,7 @@
           width: 300px;
           float: left;
           border: 1px solid red;
-        };
+        }
         
         #second {
           border: 1px solid green;
@@ -21,10 +21,10 @@
       </style>
       <div id="wrapper">
         <div id="first">
-          <img src="CDATA[https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact]">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact">
         </div>
         <div id="second">
-          <img src="CDATA[https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en]">
+          <img src="https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en">
         </div>
       </div>
     </div>
