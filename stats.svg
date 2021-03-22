@@ -19,10 +19,10 @@
       </style>
       <div id="wrapper">
         <div id="first">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&amp;show_icons=true&amp;locale=en&amp;layout=compact" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact" />
         </div>
         <div id="second">
-          <img src="https://github-readme-stats.vercel.app/api?username=moneywasted&amp;show_icons=true&amp;locale=en" />
+          <img src="https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en" />
         </div>
       </div>
     </div>
