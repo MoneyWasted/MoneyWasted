@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        #wrapper {
+          width: 500px;
+          border: 1px solid black;
+          overflow: hidden;
+        }
+        
+        #first {
+          width: 300px;
+          float: left;
+          border: 1px solid red;
+        }
+        
+        #second {
+          border: 1px solid green;
+          overflow: hidden;
+        }
+      </style>
+      <div id="wrapper">
+        <div id="first">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact" />
+        </div>
+        <div id="second">
+          <img src="https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en" />
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
