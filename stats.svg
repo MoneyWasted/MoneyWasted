@@ -18,10 +18,10 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" id="wrapper">
       <div id="first">
-        <p><![CDATA[<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact">]]></p>
+        <p><image href="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact" /></p>
       </div>
       <div id="second">
-        <p><![CDATA[<img src="https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en">]]></p>
+        <p><image href="https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en" /></p>
       </div>
     </div>
   </foreignObject>
