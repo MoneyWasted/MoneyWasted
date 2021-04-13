@@ -14,7 +14,7 @@
   <a href="https://instagram.com/moneywasted_" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="moneywasted_" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/moneywasted" target="blank">
+  <a href="https://www.youtube.com/moneywasted" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="moneywasted" height="30" width="40" />
   </a>
 </p>
@@ -49,7 +49,7 @@
 
 <h3 align="left">Frameworks I Use:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank">
+  <a href="https://developers.google.com/android" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a>
   <a href="https://cordova.apache.org/" target="_blank">
