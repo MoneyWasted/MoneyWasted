@@ -76,9 +76,10 @@
   </a>
 </p>
 
-<div>
-  <p><img align="center" src="stats.svg" /></p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moneywasted&show_icons=true&locale=en" alt="moneywasted" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moneywasted&show_icons=true&locale=en&layout=compact" alt="moneywasted" />
+</p>
 
 <!---
 MoneyWasted/MoneyWasted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
